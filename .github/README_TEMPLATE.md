@@ -22,7 +22,7 @@ List software and tools required to use this project:
 
 ```
 # Clone the repository
-git clone https://github.com/your-organization/project-name.git
+git clone https://github.com/Arete-Innovations/project-name.git
 
 # Navigate to project directory
 cd project-name
@@ -76,6 +76,3 @@ Instructions for development workflow:
 
 For detailed guidelines, see [CONTRIBUTING.md](https://github.com/Arete-Innovations/.github/blob/main/.github/CONTRIBUTING.md).
 
-## License
-
-This project is licensed under the [LICENSE_TYPE] - see the [LICENSE](LICENSE) file for details.
