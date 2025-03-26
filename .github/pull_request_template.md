@@ -2,10 +2,6 @@
 
 <!-- Provide a concise description of the changes made in this PR -->
 
-## Linear Ticket
-
-<!-- Add the URL to the Linear ticket associated with this PR -->
-
 ## Description
 
 <!-- Explain in detail what changes were made and why they were necessary -->
