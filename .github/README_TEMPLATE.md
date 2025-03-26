@@ -74,7 +74,7 @@ Instructions for development workflow:
 3. Make your changes
 4. Submit a pull request
 
-For detailed guidelines, see [CONTRIBUTING.md](CONTRIBUTING.md).
+For detailed guidelines, see [CONTRIBUTING.md](https://github.com/Arete-Innovations/.github/blob/main/.github/CONTRIBUTING.md).
 
 ## License
 
