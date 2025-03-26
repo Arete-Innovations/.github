@@ -1,3 +1,5 @@
+## TESING
+
 # Organization-wide GitHub Templates
 
 This repository contains standardized GitHub templates (including issue and pull request templates) that are automatically available across all repositories in our organization.
@@ -6,8 +8,8 @@ This repository contains standardized GitHub templates (including issue and pull
 
 This repository provides organization-wide GitHub templates for:
 
-- [Bug reports]([.github/ISSUE_TEMPLATE/bug_report.md](https://github.com/Arete-Innovations/.github/blob/main/.github/ISSUE_TEMPLATE/%20bug_report.md))
-- [Feature requests]([.github/ISSUE_TEMPLATE/feature_request.md](https://github.com/Arete-Innovations/.github/blob/main/.github/ISSUE_TEMPLATE/feature_request.md))
+- [Bug reports](<[.github/ISSUE_TEMPLATE/bug_report.md](https://github.com/Arete-Innovations/.github/blob/main/.github/ISSUE_TEMPLATE/%20bug_report.md)>)
+- [Feature requests](<[.github/ISSUE_TEMPLATE/feature_request.md](https://github.com/Arete-Innovations/.github/blob/main/.github/ISSUE_TEMPLATE/feature_request.md)>)
 - [Pull request template](https://github.com/Arete-Innovations/.github/blob/main/.github/pull_request_template.md)
 
 ## How It Works
